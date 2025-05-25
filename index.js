@@ -178,7 +178,7 @@ const socketIo = require('socket.io');
 
 const io = socketIo(server, {
   cors: {
-    origin: ['http://ec2-16-170-208-169.eu-north-1.compute.amazonaws.com:8001', 'http://ec2-16-170-208-169.eu-north-1.compute.amazonaws.com:8002','http://localhost:8003'],
+    origin: ['https://wflivechatuser.netlify.app', 'https://wflivechat.netlify.app'],
     methods: ["GET", "POST"]
   }
 });
