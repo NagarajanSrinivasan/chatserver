@@ -183,6 +183,12 @@ const io = socketIo(server, {
   }
 });
 
+app.options("*", cors({ origin: 'https://wflivechat.netlify.app', optionsSuccessStatus: 200 }));
+app.use(cors({ origin: "https://wflivechat.netlify.app", optionsSuccessStatus: 200 }));
+
+app.options("*", cors({ origin: 'https://wflivechatuser.netlify.app', optionsSuccessStatus: 200 }));
+app.use(cors({ origin: "https://wflivechatuser.netlify.app", optionsSuccessStatus: 200 }));
+
 
 let users = {};
 let agents = {};
