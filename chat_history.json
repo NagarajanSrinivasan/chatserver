@@ -1,0 +1,1370 @@
+[
+  {
+    "sender": "system",
+    "text": "Chat requested",
+    "time": "06:13 pm",
+    "from": "qsc53QIoA_GVULIOAAAR",
+    "to": "all-agents",
+    "timestamp": "2025-05-20T12:43:08.229Z",
+    "chatId": "no-active-chat"
+  },
+  {
+    "sender": "system",
+    "text": "Chat started",
+    "time": "06:13 pm",
+    "from": "qsc53QIoA_GVULIOAAAR",
+    "to": "qsc53QIoA_GVULIOAAAR",
+    "timestamp": "2025-05-20T12:43:13.626Z",
+    "chatId": "qsc53QIoA_GVULIOAAAR-qsc53QIoA_GVULIOAAAR"
+  },
+  {
+    "sender": "system",
+    "text": "Chat ended",
+    "time": "06:13 pm",
+    "from": "system",
+    "to": "both",
+    "timestamp": "2025-05-20T12:43:21.316Z",
+    "chatId": "qsc53QIoA_GVULIOAAAR-qsc53QIoA_GVULIOAAAR"
+  },
+  {
+    "sender": "system",
+    "text": "Chat requested",
+    "time": "03:43 pm",
+    "from": "S4jyNHhA-cyguqCpAAAH",
+    "to": "all-agents",
+    "timestamp": "2025-05-21T10:13:12.575Z",
+    "chatId": "no-active-chat"
+  },
+  {
+    "sender": "system",
+    "text": "Chat started",
+    "time": "03:43 pm",
+    "from": "S4jyNHhA-cyguqCpAAAH",
+    "to": "S4jyNHhA-cyguqCpAAAH",
+    "timestamp": "2025-05-21T10:13:21.041Z",
+    "chatId": "S4jyNHhA-cyguqCpAAAH-S4jyNHhA-cyguqCpAAAH"
+  },
+  {
+    "sender": "agent",
+    "text": "hello",
+    "time": "15:43",
+    "from": "S4jyNHhA-cyguqCpAAAH",
+    "to": "S4jyNHhA-cyguqCpAAAH",
+    "timestamp": "2025-05-21T10:13:25.834Z",
+    "chatId": "S4jyNHhA-cyguqCpAAAH-S4jyNHhA-cyguqCpAAAH"
+  },
+  {
+    "sender": "user",
+    "text": "hi",
+    "time": "15:43",
+    "from": "S4jyNHhA-cyguqCpAAAH",
+    "to": "S4jyNHhA-cyguqCpAAAH",
+    "timestamp": "2025-05-21T10:13:37.651Z",
+    "chatId": "S4jyNHhA-cyguqCpAAAH-S4jyNHhA-cyguqCpAAAH"
+  },
+  {
+    "sender": "system",
+    "text": "Chat ended",
+    "time": "03:43 pm",
+    "from": "system",
+    "to": "both",
+    "timestamp": "2025-05-21T10:13:47.725Z",
+    "chatId": "S4jyNHhA-cyguqCpAAAH-S4jyNHhA-cyguqCpAAAH"
+  },
+  {
+    "sender": "system",
+    "text": "Chat requested",
+    "time": "08:07 pm",
+    "from": "UmyXY-l2AhiuorCSAAAB",
+    "to": "all-agents",
+    "timestamp": "2025-05-22T14:37:03.561Z",
+    "chatId": "no-active-chat"
+  },
+  {
+    "sender": "system",
+    "text": "Chat started",
+    "time": "08:07 pm",
+    "from": "UmyXY-l2AhiuorCSAAAB",
+    "to": "UmyXY-l2AhiuorCSAAAB",
+    "timestamp": "2025-05-22T14:37:06.201Z",
+    "chatId": "UmyXY-l2AhiuorCSAAAB-UmyXY-l2AhiuorCSAAAB"
+  },
+  {
+    "sender": "agent",
+    "text": "hello",
+    "time": "20:07",
+    "from": "UmyXY-l2AhiuorCSAAAB",
+    "to": "UmyXY-l2AhiuorCSAAAB",
+    "timestamp": "2025-05-22T14:37:08.959Z",
+    "chatId": "UmyXY-l2AhiuorCSAAAB-UmyXY-l2AhiuorCSAAAB"
+  },
+  {
+    "sender": "user",
+    "text": "hi",
+    "time": "20:07",
+    "from": "UmyXY-l2AhiuorCSAAAB",
+    "to": "UmyXY-l2AhiuorCSAAAB",
+    "timestamp": "2025-05-22T14:37:13.284Z",
+    "chatId": "UmyXY-l2AhiuorCSAAAB-UmyXY-l2AhiuorCSAAAB"
+  },
+  {
+    "sender": "system",
+    "text": "Chat ended (client disconnected)",
+    "time": "08:44 pm",
+    "from": "system",
+    "to": "both",
+    "timestamp": "2025-05-22T15:14:27.144Z",
+    "chatId": "UmyXY-l2AhiuorCSAAAB-UmyXY-l2AhiuorCSAAAB"
+  },
+  {
+    "sender": "system",
+    "text": "Chat requested",
+    "time": "09:35 am",
+    "from": "0ntARcy6_SO1IBhoAAAD",
+    "to": "all-agents",
+    "timestamp": "2025-05-23T04:05:11.352Z",
+    "chatId": "no-active-chat"
+  },
+  {
+    "sender": "system",
+    "text": "Chat requested",
+    "time": "09:35 am",
+    "from": "0eJYz33DrDNZElPCAAAH",
+    "to": "all-agents",
+    "timestamp": "2025-05-23T04:05:36.748Z",
+    "chatId": "no-active-chat"
+  },
+  {
+    "sender": "system",
+    "text": "Chat started",
+    "time": "09:35 am",
+    "from": "0eJYz33DrDNZElPCAAAH",
+    "to": "0eJYz33DrDNZElPCAAAH",
+    "timestamp": "2025-05-23T04:05:44.069Z",
+    "chatId": "0eJYz33DrDNZElPCAAAH-0eJYz33DrDNZElPCAAAH"
+  },
+  {
+    "sender": "agent",
+    "text": "hello",
+    "time": "09:35",
+    "from": "0eJYz33DrDNZElPCAAAH",
+    "to": "0eJYz33DrDNZElPCAAAH",
+    "timestamp": "2025-05-23T04:05:50.716Z",
+    "chatId": "0eJYz33DrDNZElPCAAAH-0eJYz33DrDNZElPCAAAH"
+  },
+  {
+    "sender": "user",
+    "text": "hi",
+    "time": "09:35",
+    "from": "0eJYz33DrDNZElPCAAAH",
+    "to": "0eJYz33DrDNZElPCAAAH",
+    "timestamp": "2025-05-23T04:05:55.333Z",
+    "chatId": "0eJYz33DrDNZElPCAAAH-0eJYz33DrDNZElPCAAAH"
+  },
+  {
+    "sender": "system",
+    "text": "Chat ended",
+    "time": "09:35 am",
+    "from": "system",
+    "to": "both",
+    "timestamp": "2025-05-23T04:05:56.999Z",
+    "chatId": "0eJYz33DrDNZElPCAAAH-0eJYz33DrDNZElPCAAAH"
+  },
+  {
+    "sender": "system",
+    "text": "Chat requested",
+    "time": "10:20 am",
+    "from": "ko8Ea4SJpRg2VgDpAAAC",
+    "to": "all-agents",
+    "timestamp": "2025-05-23T04:50:20.529Z",
+    "chatId": "no-active-chat"
+  },
+  {
+    "sender": "system",
+    "text": "Chat requested",
+    "time": "10:27 am",
+    "from": "3wQmNQ6PLgdUB0N_AAAF",
+    "to": "all-agents",
+    "timestamp": "2025-05-23T04:57:00.005Z",
+    "chatId": "no-active-chat"
+  },
+  {
+    "sender": "system",
+    "text": "Chat started",
+    "time": "10:27 am",
+    "from": "3wQmNQ6PLgdUB0N_AAAF",
+    "to": "3wQmNQ6PLgdUB0N_AAAF",
+    "timestamp": "2025-05-23T04:57:04.439Z",
+    "chatId": "3wQmNQ6PLgdUB0N_AAAF-3wQmNQ6PLgdUB0N_AAAF"
+  },
+  {
+    "sender": "system",
+    "text": "Chat ended",
+    "time": "10:27 am",
+    "from": "system",
+    "to": "both",
+    "timestamp": "2025-05-23T04:57:20.212Z",
+    "chatId": "3wQmNQ6PLgdUB0N_AAAF-3wQmNQ6PLgdUB0N_AAAF"
+  },
+  {
+    "sender": "system",
+    "text": "Chat requested",
+    "time": "03:20 AM",
+    "from": "iGuTYTzm-puAeo6BAAAB",
+    "to": "all-agents",
+    "timestamp": "2025-05-23T21:50:57.294Z",
+    "chatId": "no-active-chat"
+  },
+  {
+    "sender": "system",
+    "text": "Chat started",
+    "time": "03:21 AM",
+    "from": "iGuTYTzm-puAeo6BAAAB",
+    "to": "iGuTYTzm-puAeo6BAAAB",
+    "timestamp": "2025-05-23T21:51:17.995Z",
+    "chatId": "iGuTYTzm-puAeo6BAAAB-iGuTYTzm-puAeo6BAAAB"
+  },
+  {
+    "sender": "agent",
+    "text": "Hi User",
+    "time": "03:21 AM",
+    "from": "iGuTYTzm-puAeo6BAAAB",
+    "to": "iGuTYTzm-puAeo6BAAAB",
+    "timestamp": "2025-05-23T21:51:29.276Z",
+    "chatId": "iGuTYTzm-puAeo6BAAAB-iGuTYTzm-puAeo6BAAAB"
+  },
+  {
+    "sender": "user",
+    "text": "Hi Agent",
+    "time": "03:21 AM",
+    "from": "iGuTYTzm-puAeo6BAAAB",
+    "to": "iGuTYTzm-puAeo6BAAAB",
+    "timestamp": "2025-05-23T21:51:45.885Z",
+    "chatId": "iGuTYTzm-puAeo6BAAAB-iGuTYTzm-puAeo6BAAAB"
+  },
+  {
+    "sender": "agent",
+    "text": "Hello",
+    "time": "03:22 AM",
+    "from": "iGuTYTzm-puAeo6BAAAB",
+    "to": "iGuTYTzm-puAeo6BAAAB",
+    "timestamp": "2025-05-23T21:52:51.401Z",
+    "chatId": "iGuTYTzm-puAeo6BAAAB-iGuTYTzm-puAeo6BAAAB"
+  },
+  {
+    "sender": "system",
+    "text": "Chat ended (client disconnected)",
+    "time": "03:23 AM",
+    "from": "system",
+    "to": "both",
+    "timestamp": "2025-05-23T21:53:01.166Z",
+    "chatId": "iGuTYTzm-puAeo6BAAAB-iGuTYTzm-puAeo6BAAAB"
+  },
+  {
+    "sender": "system",
+    "text": "Chat requested",
+    "time": "03:23 AM",
+    "from": "w-vNeSH9XIElUhY1AAAF",
+    "to": "all-agents",
+    "timestamp": "2025-05-23T21:53:09.688Z",
+    "chatId": "no-active-chat"
+  },
+  {
+    "sender": "system",
+    "text": "Chat started",
+    "time": "03:23 AM",
+    "from": "nrkFoag7EZ3qRV_UAAAD",
+    "to": "w-vNeSH9XIElUhY1AAAF",
+    "timestamp": "2025-05-23T21:53:14.065Z",
+    "chatId": "w-vNeSH9XIElUhY1AAAF-nrkFoag7EZ3qRV_UAAAD"
+  },
+  {
+    "sender": "agent",
+    "text": "Hello",
+    "time": "03:23 AM",
+    "from": "nrkFoag7EZ3qRV_UAAAD",
+    "to": "w-vNeSH9XIElUhY1AAAF",
+    "timestamp": "2025-05-23T21:53:18.469Z",
+    "chatId": "w-vNeSH9XIElUhY1AAAF-nrkFoag7EZ3qRV_UAAAD"
+  },
+  {
+    "sender": "user",
+    "text": "Hi",
+    "time": "03:23 AM",
+    "from": "w-vNeSH9XIElUhY1AAAF",
+    "to": "nrkFoag7EZ3qRV_UAAAD",
+    "timestamp": "2025-05-23T21:53:27.104Z",
+    "chatId": "w-vNeSH9XIElUhY1AAAF-nrkFoag7EZ3qRV_UAAAD"
+  },
+  {
+    "sender": "agent",
+    "text": "Agent",
+    "time": "03:24 AM",
+    "from": "nrkFoag7EZ3qRV_UAAAD",
+    "to": "w-vNeSH9XIElUhY1AAAF",
+    "timestamp": "2025-05-23T21:54:17.307Z",
+    "chatId": "w-vNeSH9XIElUhY1AAAF-nrkFoag7EZ3qRV_UAAAD"
+  },
+  {
+    "sender": "user",
+    "text": "User",
+    "time": "03:24 AM",
+    "from": "w-vNeSH9XIElUhY1AAAF",
+    "to": "nrkFoag7EZ3qRV_UAAAD",
+    "timestamp": "2025-05-23T21:54:26.490Z",
+    "chatId": "w-vNeSH9XIElUhY1AAAF-nrkFoag7EZ3qRV_UAAAD"
+  },
+  {
+    "sender": "system",
+    "text": "Chat ended (client disconnected)",
+    "time": "03:28 AM",
+    "from": "system",
+    "to": "both",
+    "timestamp": "2025-05-23T21:58:44.591Z",
+    "chatId": "w-vNeSH9XIElUhY1AAAF-nrkFoag7EZ3qRV_UAAAD"
+  },
+  {
+    "sender": "system",
+    "text": "Chat requested",
+    "time": "03:28 AM",
+    "from": "ua8LSOfce84aEsYGAAAH",
+    "to": "all-agents",
+    "timestamp": "2025-05-23T21:58:53.730Z",
+    "chatId": "no-active-chat"
+  },
+  {
+    "sender": "system",
+    "text": "Chat started",
+    "time": "03:28 AM",
+    "from": "P0kvmYzhMmaQ-70FAAAJ",
+    "to": "ua8LSOfce84aEsYGAAAH",
+    "timestamp": "2025-05-23T21:58:55.576Z",
+    "chatId": "ua8LSOfce84aEsYGAAAH-P0kvmYzhMmaQ-70FAAAJ"
+  },
+  {
+    "sender": "agent",
+    "text": "Hi User",
+    "time": "03:28 AM",
+    "from": "P0kvmYzhMmaQ-70FAAAJ",
+    "to": "ua8LSOfce84aEsYGAAAH",
+    "timestamp": "2025-05-23T21:58:59.936Z",
+    "chatId": "ua8LSOfce84aEsYGAAAH-P0kvmYzhMmaQ-70FAAAJ"
+  },
+  {
+    "sender": "user",
+    "text": "Hi Agent",
+    "time": "03:29 AM",
+    "from": "ua8LSOfce84aEsYGAAAH",
+    "to": "P0kvmYzhMmaQ-70FAAAJ",
+    "timestamp": "2025-05-23T21:59:07.991Z",
+    "chatId": "ua8LSOfce84aEsYGAAAH-P0kvmYzhMmaQ-70FAAAJ"
+  },
+  {
+    "sender": "system",
+    "text": "Chat ended (client disconnected)",
+    "time": "03:29 AM",
+    "from": "system",
+    "to": "both",
+    "timestamp": "2025-05-23T21:59:56.615Z",
+    "chatId": "ua8LSOfce84aEsYGAAAH-P0kvmYzhMmaQ-70FAAAJ"
+  },
+  {
+    "sender": "system",
+    "text": "Chat requested",
+    "time": "03:31 AM",
+    "from": "uaHq_D1vx-X-ZjjyAAAN",
+    "to": "all-agents",
+    "timestamp": "2025-05-23T22:01:23.292Z",
+    "chatId": "no-active-chat"
+  },
+  {
+    "sender": "system",
+    "text": "Chat started",
+    "time": "03:31 AM",
+    "from": "4fYWeJNzzweIlZX1AAAL",
+    "to": "uaHq_D1vx-X-ZjjyAAAN",
+    "timestamp": "2025-05-23T22:01:26.970Z",
+    "chatId": "uaHq_D1vx-X-ZjjyAAAN-4fYWeJNzzweIlZX1AAAL"
+  },
+  {
+    "sender": "agent",
+    "text": "Hi User",
+    "time": "03:31 AM",
+    "from": "4fYWeJNzzweIlZX1AAAL",
+    "to": "uaHq_D1vx-X-ZjjyAAAN",
+    "timestamp": "2025-05-23T22:01:40.322Z",
+    "chatId": "uaHq_D1vx-X-ZjjyAAAN-4fYWeJNzzweIlZX1AAAL"
+  },
+  {
+    "sender": "user",
+    "text": "Hi Agent",
+    "time": "03:32 AM",
+    "from": "uaHq_D1vx-X-ZjjyAAAN",
+    "to": "4fYWeJNzzweIlZX1AAAL",
+    "timestamp": "2025-05-23T22:02:24.698Z",
+    "chatId": "uaHq_D1vx-X-ZjjyAAAN-4fYWeJNzzweIlZX1AAAL"
+  },
+  {
+    "sender": "system",
+    "text": "Chat ended (client disconnected)",
+    "time": "03:34 AM",
+    "from": "system",
+    "to": "both",
+    "timestamp": "2025-05-23T22:04:11.482Z",
+    "chatId": "uaHq_D1vx-X-ZjjyAAAN-4fYWeJNzzweIlZX1AAAL"
+  },
+  {
+    "sender": "system",
+    "text": "Chat requested",
+    "time": "03:34 AM",
+    "from": "6KkqVug-1sofQT6KAAAP",
+    "to": "all-agents",
+    "timestamp": "2025-05-23T22:04:20.761Z",
+    "chatId": "no-active-chat"
+  },
+  {
+    "sender": "system",
+    "text": "Chat started",
+    "time": "03:34 AM",
+    "from": "6KkqVug-1sofQT6KAAAP",
+    "to": "6KkqVug-1sofQT6KAAAP",
+    "timestamp": "2025-05-23T22:04:22.752Z",
+    "chatId": "6KkqVug-1sofQT6KAAAP-6KkqVug-1sofQT6KAAAP"
+  },
+  {
+    "sender": "agent",
+    "text": "Hello User",
+    "time": "03:34 AM",
+    "from": "6KkqVug-1sofQT6KAAAP",
+    "to": "6KkqVug-1sofQT6KAAAP",
+    "timestamp": "2025-05-23T22:04:30.675Z",
+    "chatId": "6KkqVug-1sofQT6KAAAP-6KkqVug-1sofQT6KAAAP"
+  },
+  {
+    "sender": "user",
+    "text": "Hi Agent",
+    "time": "03:35 AM",
+    "from": "6KkqVug-1sofQT6KAAAP",
+    "to": "6KkqVug-1sofQT6KAAAP",
+    "timestamp": "2025-05-23T22:05:11.860Z",
+    "chatId": "6KkqVug-1sofQT6KAAAP-6KkqVug-1sofQT6KAAAP"
+  },
+  {
+    "sender": "system",
+    "text": "Chat ended (client disconnected)",
+    "time": "03:37 AM",
+    "from": "system",
+    "to": "both",
+    "timestamp": "2025-05-23T22:07:33.986Z",
+    "chatId": "6KkqVug-1sofQT6KAAAP-6KkqVug-1sofQT6KAAAP"
+  },
+  {
+    "sender": "system",
+    "text": "Chat requested",
+    "time": "03:37 AM",
+    "from": "gwLoq9_1Ro_FKoSdAAAV",
+    "to": "all-agents",
+    "timestamp": "2025-05-23T22:07:46.017Z",
+    "chatId": "no-active-chat"
+  },
+  {
+    "sender": "system",
+    "text": "Chat started",
+    "time": "03:37 AM",
+    "from": "p5JJZicwMs4ZbNOoAAAT",
+    "to": "gwLoq9_1Ro_FKoSdAAAV",
+    "timestamp": "2025-05-23T22:07:52.889Z",
+    "chatId": "gwLoq9_1Ro_FKoSdAAAV-p5JJZicwMs4ZbNOoAAAT"
+  },
+  {
+    "sender": "user",
+    "text": "Hi Agent",
+    "time": "03:38 AM",
+    "from": "gwLoq9_1Ro_FKoSdAAAV",
+    "to": "p5JJZicwMs4ZbNOoAAAT",
+    "timestamp": "2025-05-23T22:08:03.695Z",
+    "chatId": "gwLoq9_1Ro_FKoSdAAAV-p5JJZicwMs4ZbNOoAAAT"
+  },
+  {
+    "sender": "agent",
+    "text": "HI User",
+    "time": "03:38 AM",
+    "from": "p5JJZicwMs4ZbNOoAAAT",
+    "to": "gwLoq9_1Ro_FKoSdAAAV",
+    "timestamp": "2025-05-23T22:08:19.641Z",
+    "chatId": "gwLoq9_1Ro_FKoSdAAAV-p5JJZicwMs4ZbNOoAAAT"
+  },
+  {
+    "sender": "system",
+    "text": "Chat ended (client disconnected)",
+    "time": "03:38 AM",
+    "from": "system",
+    "to": "both",
+    "timestamp": "2025-05-23T22:08:37.597Z",
+    "chatId": "gwLoq9_1Ro_FKoSdAAAV-p5JJZicwMs4ZbNOoAAAT"
+  },
+  {
+    "sender": "system",
+    "text": "Chat requested",
+    "time": "03:38 AM",
+    "from": "VvXLawat7Y5FUR8YAAAZ",
+    "to": "all-agents",
+    "timestamp": "2025-05-23T22:08:44.177Z",
+    "chatId": "no-active-chat"
+  },
+  {
+    "sender": "system",
+    "text": "Chat started",
+    "time": "03:38 AM",
+    "from": "iIGj3yvrap5xqeCfAAAX",
+    "to": "VvXLawat7Y5FUR8YAAAZ",
+    "timestamp": "2025-05-23T22:08:48.113Z",
+    "chatId": "VvXLawat7Y5FUR8YAAAZ-iIGj3yvrap5xqeCfAAAX"
+  },
+  {
+    "sender": "agent",
+    "text": "Hi User",
+    "time": "03:38 AM",
+    "from": "iIGj3yvrap5xqeCfAAAX",
+    "to": "VvXLawat7Y5FUR8YAAAZ",
+    "timestamp": "2025-05-23T22:08:52.913Z",
+    "chatId": "VvXLawat7Y5FUR8YAAAZ-iIGj3yvrap5xqeCfAAAX"
+  },
+  {
+    "sender": "user",
+    "text": "Hi Agent",
+    "time": "03:39 AM",
+    "from": "VvXLawat7Y5FUR8YAAAZ",
+    "to": "iIGj3yvrap5xqeCfAAAX",
+    "timestamp": "2025-05-23T22:09:21.539Z",
+    "chatId": "VvXLawat7Y5FUR8YAAAZ-iIGj3yvrap5xqeCfAAAX"
+  },
+  {
+    "sender": "system",
+    "text": "Chat ended (client disconnected)",
+    "time": "03:43 AM",
+    "from": "system",
+    "to": "both",
+    "timestamp": "2025-05-23T22:13:33.322Z",
+    "chatId": "VvXLawat7Y5FUR8YAAAZ-iIGj3yvrap5xqeCfAAAX"
+  },
+  {
+    "sender": "system",
+    "text": "Chat requested",
+    "time": "03:43 AM",
+    "from": "bxNq3BGSX9u-ll6UAAAf",
+    "to": "all-agents",
+    "timestamp": "2025-05-23T22:13:41.584Z",
+    "chatId": "no-active-chat"
+  },
+  {
+    "sender": "system",
+    "text": "Chat started",
+    "time": "03:43 AM",
+    "from": "lJk15sOkKZfISv6rAAAb",
+    "to": "bxNq3BGSX9u-ll6UAAAf",
+    "timestamp": "2025-05-23T22:13:45.480Z",
+    "chatId": "bxNq3BGSX9u-ll6UAAAf-lJk15sOkKZfISv6rAAAb"
+  },
+  {
+    "sender": "user",
+    "text": "Hi",
+    "time": "03:43 AM",
+    "from": "bxNq3BGSX9u-ll6UAAAf",
+    "to": "lJk15sOkKZfISv6rAAAb",
+    "timestamp": "2025-05-23T22:13:51.811Z",
+    "chatId": "bxNq3BGSX9u-ll6UAAAf-lJk15sOkKZfISv6rAAAb"
+  },
+  {
+    "sender": "user",
+    "text": "Hi Agent",
+    "time": "03:44 AM",
+    "from": "bxNq3BGSX9u-ll6UAAAf",
+    "to": "lJk15sOkKZfISv6rAAAb",
+    "timestamp": "2025-05-23T22:14:22.723Z",
+    "chatId": "bxNq3BGSX9u-ll6UAAAf-lJk15sOkKZfISv6rAAAb"
+  },
+  {
+    "sender": "system",
+    "text": "Chat ended (client disconnected)",
+    "time": "03:44 AM",
+    "from": "system",
+    "to": "both",
+    "timestamp": "2025-05-23T22:14:47.812Z",
+    "chatId": "bxNq3BGSX9u-ll6UAAAf-lJk15sOkKZfISv6rAAAb"
+  },
+  {
+    "sender": "system",
+    "text": "Chat requested",
+    "time": "03:45 AM",
+    "from": "d1E620I0zpcy99tNAAAl",
+    "to": "all-agents",
+    "timestamp": "2025-05-23T22:15:12.378Z",
+    "chatId": "no-active-chat"
+  },
+  {
+    "sender": "system",
+    "text": "Chat started",
+    "time": "03:45 AM",
+    "from": "35F2gXfYUrdAUPMXAAAn",
+    "to": "d1E620I0zpcy99tNAAAl",
+    "timestamp": "2025-05-23T22:15:15.287Z",
+    "chatId": "d1E620I0zpcy99tNAAAl-35F2gXfYUrdAUPMXAAAn"
+  },
+  {
+    "sender": "agent",
+    "text": "Hi User",
+    "time": "03:45 AM",
+    "from": "35F2gXfYUrdAUPMXAAAn",
+    "to": "d1E620I0zpcy99tNAAAl",
+    "timestamp": "2025-05-23T22:15:20.347Z",
+    "chatId": "d1E620I0zpcy99tNAAAl-35F2gXfYUrdAUPMXAAAn"
+  },
+  {
+    "sender": "user",
+    "text": "Hi Agent",
+    "time": "03:45 AM",
+    "from": "d1E620I0zpcy99tNAAAl",
+    "to": "35F2gXfYUrdAUPMXAAAn",
+    "timestamp": "2025-05-23T22:15:37.663Z",
+    "chatId": "d1E620I0zpcy99tNAAAl-35F2gXfYUrdAUPMXAAAn"
+  },
+  {
+    "sender": "system",
+    "text": "Chat ended (client disconnected)",
+    "time": "04:08 AM",
+    "from": "system",
+    "to": "both",
+    "timestamp": "2025-05-23T22:38:39.734Z",
+    "chatId": "d1E620I0zpcy99tNAAAl-35F2gXfYUrdAUPMXAAAn"
+  },
+  {
+    "sender": "system",
+    "text": "Chat requested",
+    "time": "04:08 AM",
+    "from": "FtvN1DeHt-wg8qFSAAAr",
+    "to": "all-agents",
+    "timestamp": "2025-05-23T22:38:55.026Z",
+    "chatId": "no-active-chat"
+  },
+  {
+    "sender": "system",
+    "text": "Chat started",
+    "time": "04:09 AM",
+    "from": "P2So2pcHn-uCZZBCAAAp",
+    "to": "FtvN1DeHt-wg8qFSAAAr",
+    "timestamp": "2025-05-23T22:39:03.578Z",
+    "chatId": "FtvN1DeHt-wg8qFSAAAr-P2So2pcHn-uCZZBCAAAp"
+  },
+  {
+    "sender": "agent",
+    "text": "HI",
+    "time": "04:09 AM",
+    "from": "P2So2pcHn-uCZZBCAAAp",
+    "to": "FtvN1DeHt-wg8qFSAAAr",
+    "timestamp": "2025-05-23T22:39:07.572Z",
+    "chatId": "FtvN1DeHt-wg8qFSAAAr-P2So2pcHn-uCZZBCAAAp"
+  },
+  {
+    "sender": "agent",
+    "text": "Hi",
+    "time": "04:10 AM",
+    "from": "P2So2pcHn-uCZZBCAAAp",
+    "to": "FtvN1DeHt-wg8qFSAAAr",
+    "timestamp": "2025-05-23T22:40:05.120Z",
+    "chatId": "FtvN1DeHt-wg8qFSAAAr-P2So2pcHn-uCZZBCAAAp"
+  },
+  {
+    "sender": "user",
+    "text": "Hi",
+    "time": "04:10 AM",
+    "from": "FtvN1DeHt-wg8qFSAAAr",
+    "to": "P2So2pcHn-uCZZBCAAAp",
+    "timestamp": "2025-05-23T22:40:38.015Z",
+    "chatId": "FtvN1DeHt-wg8qFSAAAr-P2So2pcHn-uCZZBCAAAp"
+  },
+  {
+    "sender": "user",
+    "text": "Hi 4",
+    "time": "04:10 AM",
+    "from": "FtvN1DeHt-wg8qFSAAAr",
+    "to": "P2So2pcHn-uCZZBCAAAp",
+    "timestamp": "2025-05-23T22:40:55.391Z",
+    "chatId": "FtvN1DeHt-wg8qFSAAAr-P2So2pcHn-uCZZBCAAAp"
+  },
+  {
+    "sender": "system",
+    "text": "Chat ended (client disconnected)",
+    "time": "04:11 AM",
+    "from": "system",
+    "to": "both",
+    "timestamp": "2025-05-23T22:41:13.640Z",
+    "chatId": "FtvN1DeHt-wg8qFSAAAr-P2So2pcHn-uCZZBCAAAp"
+  },
+  {
+    "sender": "system",
+    "text": "Chat requested",
+    "time": "04:14 AM",
+    "from": "1-h3Yx3AYPF7IZSrAAA0",
+    "to": "all-agents",
+    "timestamp": "2025-05-23T22:44:46.257Z",
+    "chatId": "no-active-chat"
+  },
+  {
+    "sender": "system",
+    "text": "Chat started",
+    "time": "04:14 AM",
+    "from": "1-h3Yx3AYPF7IZSrAAA0",
+    "to": "1-h3Yx3AYPF7IZSrAAA0",
+    "timestamp": "2025-05-23T22:44:50.191Z",
+    "chatId": "1-h3Yx3AYPF7IZSrAAA0-1-h3Yx3AYPF7IZSrAAA0"
+  },
+  {
+    "sender": "agent",
+    "text": "Hi",
+    "time": "04:15 AM",
+    "from": "1-h3Yx3AYPF7IZSrAAA0",
+    "to": "1-h3Yx3AYPF7IZSrAAA0",
+    "timestamp": "2025-05-23T22:45:15.266Z",
+    "chatId": "1-h3Yx3AYPF7IZSrAAA0-1-h3Yx3AYPF7IZSrAAA0"
+  },
+  {
+    "sender": "user",
+    "text": "Hello",
+    "time": "04:17 AM",
+    "from": "1-h3Yx3AYPF7IZSrAAA0",
+    "to": "1-h3Yx3AYPF7IZSrAAA0",
+    "timestamp": "2025-05-23T22:47:08.322Z",
+    "chatId": "1-h3Yx3AYPF7IZSrAAA0-1-h3Yx3AYPF7IZSrAAA0"
+  },
+  {
+    "sender": "system",
+    "text": "Chat ended (client disconnected)",
+    "time": "04:18 AM",
+    "from": "system",
+    "to": "both",
+    "timestamp": "2025-05-23T22:48:35.031Z",
+    "chatId": "1-h3Yx3AYPF7IZSrAAA0-1-h3Yx3AYPF7IZSrAAA0"
+  },
+  {
+    "sender": "system",
+    "text": "Chat requested",
+    "time": "04:18 AM",
+    "from": "j3IQnHIsYaFgwOxyAAA2",
+    "to": "all-agents",
+    "timestamp": "2025-05-23T22:48:42.639Z",
+    "chatId": "no-active-chat"
+  },
+  {
+    "sender": "system",
+    "text": "Chat started",
+    "time": "04:18 AM",
+    "from": "EfP3DrBo-tLxupmQAAA4",
+    "to": "j3IQnHIsYaFgwOxyAAA2",
+    "timestamp": "2025-05-23T22:48:46.783Z",
+    "chatId": "j3IQnHIsYaFgwOxyAAA2-EfP3DrBo-tLxupmQAAA4"
+  },
+  {
+    "sender": "agent",
+    "text": "Hello Agent",
+    "time": "04:18 AM",
+    "from": "EfP3DrBo-tLxupmQAAA4",
+    "to": "j3IQnHIsYaFgwOxyAAA2",
+    "timestamp": "2025-05-23T22:48:53.689Z",
+    "chatId": "j3IQnHIsYaFgwOxyAAA2-EfP3DrBo-tLxupmQAAA4"
+  },
+  {
+    "sender": "agent",
+    "text": "Hello",
+    "time": "04:21 AM",
+    "from": "EfP3DrBo-tLxupmQAAA4",
+    "to": "j3IQnHIsYaFgwOxyAAA2",
+    "timestamp": "2025-05-23T22:51:02.354Z",
+    "chatId": "j3IQnHIsYaFgwOxyAAA2-EfP3DrBo-tLxupmQAAA4"
+  },
+  {
+    "sender": "system",
+    "text": "Chat ended (client disconnected)",
+    "time": "06:15 AM",
+    "from": "system",
+    "to": "both",
+    "timestamp": "2025-05-24T00:45:30.589Z",
+    "chatId": "j3IQnHIsYaFgwOxyAAA2-EfP3DrBo-tLxupmQAAA4"
+  },
+  {
+    "sender": "system",
+    "text": "Chat requested",
+    "time": "06:15 AM",
+    "from": "843L_NixcJVThWTPAABC",
+    "to": "all-agents",
+    "timestamp": "2025-05-24T00:45:47.939Z",
+    "chatId": "no-active-chat"
+  },
+  {
+    "sender": "system",
+    "text": "Chat started",
+    "time": "06:15 AM",
+    "from": "w-Ruo4pS-BB5M70bAAA-",
+    "to": "843L_NixcJVThWTPAABC",
+    "timestamp": "2025-05-24T00:45:52.738Z",
+    "chatId": "843L_NixcJVThWTPAABC-w-Ruo4pS-BB5M70bAAA-"
+  },
+  {
+    "sender": "agent",
+    "text": "Hi User",
+    "time": "06:15 AM",
+    "from": "w-Ruo4pS-BB5M70bAAA-",
+    "to": "843L_NixcJVThWTPAABC",
+    "timestamp": "2025-05-24T00:45:58.683Z",
+    "chatId": "843L_NixcJVThWTPAABC-w-Ruo4pS-BB5M70bAAA-"
+  },
+  {
+    "sender": "user",
+    "text": "Hi Agent",
+    "time": "06:16 AM",
+    "from": "843L_NixcJVThWTPAABC",
+    "to": "w-Ruo4pS-BB5M70bAAA-",
+    "timestamp": "2025-05-24T00:46:46.229Z",
+    "chatId": "843L_NixcJVThWTPAABC-w-Ruo4pS-BB5M70bAAA-"
+  },
+  {
+    "sender": "agent",
+    "text": "Hello",
+    "time": "06:18 AM",
+    "from": "843L_NixcJVThWTPAABC",
+    "to": "843L_NixcJVThWTPAABC",
+    "timestamp": "2025-05-24T00:48:25.452Z",
+    "chatId": "843L_NixcJVThWTPAABC-w-Ruo4pS-BB5M70bAAA-"
+  },
+  {
+    "sender": "user",
+    "text": "Hi",
+    "time": "06:18 AM",
+    "from": "843L_NixcJVThWTPAABC",
+    "to": "w-Ruo4pS-BB5M70bAAA-",
+    "timestamp": "2025-05-24T00:48:33.427Z",
+    "chatId": "843L_NixcJVThWTPAABC-w-Ruo4pS-BB5M70bAAA-"
+  },
+  {
+    "sender": "system",
+    "text": "Chat ended (client disconnected)",
+    "time": "06:32 AM",
+    "from": "system",
+    "to": "both",
+    "timestamp": "2025-05-24T01:02:30.625Z",
+    "chatId": "843L_NixcJVThWTPAABC-w-Ruo4pS-BB5M70bAAA-"
+  },
+  {
+    "sender": "system",
+    "text": "Chat requested",
+    "time": "06:34 AM",
+    "from": "vTT96SdDjC__bRP3AABE",
+    "to": "all-agents",
+    "timestamp": "2025-05-24T01:04:11.372Z",
+    "chatId": "no-active-chat"
+  },
+  {
+    "sender": "system",
+    "text": "Chat started",
+    "time": "06:34 AM",
+    "from": "843L_NixcJVThWTPAABC",
+    "to": "vTT96SdDjC__bRP3AABE",
+    "timestamp": "2025-05-24T01:04:15.074Z",
+    "chatId": "vTT96SdDjC__bRP3AABE-843L_NixcJVThWTPAABC"
+  },
+  {
+    "sender": "agent",
+    "text": "Hi",
+    "time": "06:34 AM",
+    "from": "843L_NixcJVThWTPAABC",
+    "to": "vTT96SdDjC__bRP3AABE",
+    "timestamp": "2025-05-24T01:04:20.491Z",
+    "chatId": "vTT96SdDjC__bRP3AABE-843L_NixcJVThWTPAABC"
+  },
+  {
+    "sender": "agent",
+    "text": "hello",
+    "time": "06:34 AM",
+    "from": "843L_NixcJVThWTPAABC",
+    "to": "vTT96SdDjC__bRP3AABE",
+    "timestamp": "2025-05-24T01:04:52.400Z",
+    "chatId": "vTT96SdDjC__bRP3AABE-843L_NixcJVThWTPAABC"
+  },
+  {
+    "sender": "user",
+    "text": "hii",
+    "time": "06:34 AM",
+    "from": "vTT96SdDjC__bRP3AABE",
+    "to": "843L_NixcJVThWTPAABC",
+    "timestamp": "2025-05-24T01:04:59.661Z",
+    "chatId": "vTT96SdDjC__bRP3AABE-843L_NixcJVThWTPAABC"
+  },
+  {
+    "sender": "system",
+    "text": "Chat ended (client disconnected)",
+    "time": "07:18 AM",
+    "from": "system",
+    "to": "both",
+    "timestamp": "2025-05-24T01:48:02.388Z",
+    "chatId": "vTT96SdDjC__bRP3AABE-843L_NixcJVThWTPAABC"
+  },
+  {
+    "sender": "system",
+    "text": "Chat requested",
+    "time": "02:23 PM",
+    "from": "D1g6V6GiBhBkwqEWAAAB",
+    "to": "all-agents",
+    "timestamp": "2025-05-24T08:53:29.061Z",
+    "chatId": "no-active-chat"
+  },
+  {
+    "sender": "system",
+    "text": "Chat started",
+    "time": "02:23 PM",
+    "from": "D1g6V6GiBhBkwqEWAAAB",
+    "to": "D1g6V6GiBhBkwqEWAAAB",
+    "timestamp": "2025-05-24T08:53:30.628Z",
+    "chatId": "D1g6V6GiBhBkwqEWAAAB-D1g6V6GiBhBkwqEWAAAB"
+  },
+  {
+    "sender": "agent",
+    "text": "Hi",
+    "time": "02:23 PM",
+    "from": "D1g6V6GiBhBkwqEWAAAB",
+    "to": "D1g6V6GiBhBkwqEWAAAB",
+    "timestamp": "2025-05-24T08:53:35.340Z",
+    "chatId": "D1g6V6GiBhBkwqEWAAAB-D1g6V6GiBhBkwqEWAAAB"
+  },
+  {
+    "sender": "system",
+    "text": "Chat ended (client disconnected)",
+    "time": "02:23 PM",
+    "from": "system",
+    "to": "both",
+    "timestamp": "2025-05-24T08:53:54.845Z",
+    "chatId": "D1g6V6GiBhBkwqEWAAAB-D1g6V6GiBhBkwqEWAAAB"
+  },
+  {
+    "sender": "system",
+    "text": "Chat requested",
+    "time": "02:23 PM",
+    "from": "-1onI46T-H4kHdABAAAF",
+    "to": "all-agents",
+    "timestamp": "2025-05-24T08:53:58.608Z",
+    "chatId": "no-active-chat"
+  },
+  {
+    "sender": "system",
+    "text": "Chat started",
+    "time": "02:24 PM",
+    "from": "-1onI46T-H4kHdABAAAF",
+    "to": "-1onI46T-H4kHdABAAAF",
+    "timestamp": "2025-05-24T08:54:09.992Z",
+    "chatId": "-1onI46T-H4kHdABAAAF--1onI46T-H4kHdABAAAF"
+  },
+  {
+    "sender": "system",
+    "text": "Chat ended (client disconnected)",
+    "time": "02:24 PM",
+    "from": "system",
+    "to": "both",
+    "timestamp": "2025-05-24T08:54:13.433Z",
+    "chatId": "-1onI46T-H4kHdABAAAF--1onI46T-H4kHdABAAAF"
+  },
+  {
+    "sender": "system",
+    "text": "Chat requested",
+    "time": "02:25 PM",
+    "from": "5rTn6dk-oaunIs_TAAAH",
+    "to": "all-agents",
+    "timestamp": "2025-05-24T08:55:43.410Z",
+    "chatId": "no-active-chat"
+  },
+  {
+    "sender": "system",
+    "text": "Chat started",
+    "time": "02:25 PM",
+    "from": "APH-QkuOvBVeCqSXAAAJ",
+    "to": "5rTn6dk-oaunIs_TAAAH",
+    "timestamp": "2025-05-24T08:55:45.290Z",
+    "chatId": "5rTn6dk-oaunIs_TAAAH-APH-QkuOvBVeCqSXAAAJ"
+  },
+  {
+    "sender": "agent",
+    "text": "Hi",
+    "time": "02:25 PM",
+    "from": "APH-QkuOvBVeCqSXAAAJ",
+    "to": "5rTn6dk-oaunIs_TAAAH",
+    "timestamp": "2025-05-24T08:55:49.213Z",
+    "chatId": "5rTn6dk-oaunIs_TAAAH-APH-QkuOvBVeCqSXAAAJ"
+  },
+  {
+    "sender": "system",
+    "text": "Chat ended (client disconnected)",
+    "time": "02:27 PM",
+    "from": "system",
+    "to": "both",
+    "timestamp": "2025-05-24T08:57:13.254Z",
+    "chatId": "5rTn6dk-oaunIs_TAAAH-APH-QkuOvBVeCqSXAAAJ"
+  },
+  {
+    "sender": "system",
+    "text": "Chat requested",
+    "time": "07:19 PM",
+    "from": "pvBYyNbzuOFGahg8AAAB",
+    "to": "all-agents",
+    "timestamp": "2025-05-24T13:49:25.022Z",
+    "chatId": "no-active-chat"
+  },
+  {
+    "sender": "system",
+    "text": "Chat requested",
+    "time": "07:22 PM",
+    "from": "pvBYyNbzuOFGahg8AAAB",
+    "to": "all-agents",
+    "timestamp": "2025-05-24T13:52:32.991Z",
+    "chatId": "no-active-chat"
+  },
+  {
+    "sender": "system",
+    "text": "Chat requested",
+    "time": "07:27 PM",
+    "from": "oQQhmWhbgUbUrUASAAA3",
+    "to": "all-agents",
+    "timestamp": "2025-05-24T13:57:33.072Z",
+    "chatId": "no-active-chat"
+  },
+  {
+    "sender": "system",
+    "text": "Chat requested",
+    "time": "07:29 PM",
+    "from": "FDVueZ_TE4DIy8DzAAAD",
+    "to": "all-agents",
+    "timestamp": "2025-05-24T13:59:24.046Z",
+    "chatId": "no-active-chat"
+  },
+  {
+    "sender": "system",
+    "text": "Chat started",
+    "time": "07:29 PM",
+    "from": "mHqTKEYQTBa_ogJlAAAB",
+    "to": "FDVueZ_TE4DIy8DzAAAD",
+    "timestamp": "2025-05-24T13:59:28.114Z",
+    "chatId": "FDVueZ_TE4DIy8DzAAAD-mHqTKEYQTBa_ogJlAAAB"
+  },
+  {
+    "sender": "agent",
+    "text": "Hello",
+    "time": "07:29 PM",
+    "from": "mHqTKEYQTBa_ogJlAAAB",
+    "to": "FDVueZ_TE4DIy8DzAAAD",
+    "timestamp": "2025-05-24T13:59:32.824Z",
+    "chatId": "FDVueZ_TE4DIy8DzAAAD-mHqTKEYQTBa_ogJlAAAB"
+  },
+  {
+    "sender": "user",
+    "text": "Hi",
+    "time": "07:29 PM",
+    "from": "FDVueZ_TE4DIy8DzAAAD",
+    "to": "mHqTKEYQTBa_ogJlAAAB",
+    "timestamp": "2025-05-24T13:59:42.650Z",
+    "chatId": "FDVueZ_TE4DIy8DzAAAD-mHqTKEYQTBa_ogJlAAAB"
+  },
+  {
+    "sender": "agent",
+    "text": "Connected",
+    "time": "07:29 PM",
+    "from": "mHqTKEYQTBa_ogJlAAAB",
+    "to": "FDVueZ_TE4DIy8DzAAAD",
+    "timestamp": "2025-05-24T13:59:49.253Z",
+    "chatId": "FDVueZ_TE4DIy8DzAAAD-mHqTKEYQTBa_ogJlAAAB"
+  },
+  {
+    "sender": "system",
+    "text": "Chat ended (client disconnected)",
+    "time": "07:39 PM",
+    "from": "system",
+    "to": "both",
+    "timestamp": "2025-05-24T14:09:02.654Z",
+    "chatId": "FDVueZ_TE4DIy8DzAAAD-mHqTKEYQTBa_ogJlAAAB"
+  },
+  {
+    "sender": "system",
+    "text": "Chat requested",
+    "time": "07:49 PM",
+    "from": "FnH2dENVdfPvXC8xAAAN",
+    "to": "all-agents",
+    "timestamp": "2025-05-24T14:19:11.982Z",
+    "chatId": "no-active-chat"
+  },
+  {
+    "sender": "system",
+    "text": "Chat started",
+    "time": "07:49 PM",
+    "from": "61ModIWLmLp3OT_KAAAP",
+    "to": "FnH2dENVdfPvXC8xAAAN",
+    "timestamp": "2025-05-24T14:19:14.145Z",
+    "chatId": "FnH2dENVdfPvXC8xAAAN-61ModIWLmLp3OT_KAAAP"
+  },
+  {
+    "sender": "agent",
+    "text": "Hi",
+    "time": "07:49 PM",
+    "from": "61ModIWLmLp3OT_KAAAP",
+    "to": "FnH2dENVdfPvXC8xAAAN",
+    "timestamp": "2025-05-24T14:19:21.271Z",
+    "chatId": "FnH2dENVdfPvXC8xAAAN-61ModIWLmLp3OT_KAAAP"
+  },
+  {
+    "sender": "user",
+    "text": "Hello",
+    "time": "07:50 PM",
+    "from": "FnH2dENVdfPvXC8xAAAN",
+    "to": "61ModIWLmLp3OT_KAAAP",
+    "timestamp": "2025-05-24T14:20:31.075Z",
+    "chatId": "FnH2dENVdfPvXC8xAAAN-61ModIWLmLp3OT_KAAAP"
+  },
+  {
+    "sender": "system",
+    "text": "Chat requested",
+    "time": "07:52 PM",
+    "from": "FnH2dENVdfPvXC8xAAAN",
+    "to": "all-agents",
+    "timestamp": "2025-05-24T14:22:14.566Z",
+    "chatId": "FnH2dENVdfPvXC8xAAAN-61ModIWLmLp3OT_KAAAP"
+  },
+  {
+    "sender": "system",
+    "text": "Chat started",
+    "time": "07:52 PM",
+    "from": "vkna4dLlUTkdF9JmAAAR",
+    "to": "FnH2dENVdfPvXC8xAAAN",
+    "timestamp": "2025-05-24T14:22:16.653Z",
+    "chatId": "FnH2dENVdfPvXC8xAAAN-vkna4dLlUTkdF9JmAAAR"
+  },
+  {
+    "sender": "system",
+    "text": "Chat ended (client disconnected)",
+    "time": "07:52 PM",
+    "from": "system",
+    "to": "both",
+    "timestamp": "2025-05-24T14:22:23.526Z",
+    "chatId": "FnH2dENVdfPvXC8xAAAN-vkna4dLlUTkdF9JmAAAR"
+  },
+  {
+    "sender": "system",
+    "text": "Chat requested",
+    "time": "07:52 PM",
+    "from": "FnH2dENVdfPvXC8xAAAN",
+    "to": "all-agents",
+    "timestamp": "2025-05-24T14:22:26.413Z",
+    "chatId": "no-active-chat"
+  },
+  {
+    "sender": "system",
+    "text": "Chat started",
+    "time": "07:52 PM",
+    "from": "X6gw_HG6Ku8V1SCbAAAT",
+    "to": "FnH2dENVdfPvXC8xAAAN",
+    "timestamp": "2025-05-24T14:22:28.294Z",
+    "chatId": "FnH2dENVdfPvXC8xAAAN-X6gw_HG6Ku8V1SCbAAAT"
+  },
+  {
+    "sender": "agent",
+    "text": "Hello",
+    "time": "07:52 PM",
+    "from": "X6gw_HG6Ku8V1SCbAAAT",
+    "to": "FnH2dENVdfPvXC8xAAAN",
+    "timestamp": "2025-05-24T14:22:33.168Z",
+    "chatId": "FnH2dENVdfPvXC8xAAAN-X6gw_HG6Ku8V1SCbAAAT"
+  },
+  {
+    "sender": "user",
+    "text": "Hi",
+    "time": "07:52 PM",
+    "from": "FnH2dENVdfPvXC8xAAAN",
+    "to": "X6gw_HG6Ku8V1SCbAAAT",
+    "timestamp": "2025-05-24T14:22:40.985Z",
+    "chatId": "FnH2dENVdfPvXC8xAAAN-X6gw_HG6Ku8V1SCbAAAT"
+  },
+  {
+    "sender": "system",
+    "text": "Chat ended (client disconnected)",
+    "time": "07:52 PM",
+    "from": "system",
+    "to": "both",
+    "timestamp": "2025-05-24T14:22:57.073Z",
+    "chatId": "FnH2dENVdfPvXC8xAAAN-X6gw_HG6Ku8V1SCbAAAT"
+  },
+  {
+    "sender": "system",
+    "text": "Chat requested",
+    "time": "09:29 PM",
+    "from": "sI6o_CXS2W4tgmK9AAAB",
+    "to": "all-agents",
+    "timestamp": "2025-05-24T15:59:59.140Z",
+    "chatId": "no-active-chat"
+  },
+  {
+    "sender": "system",
+    "text": "Chat started",
+    "time": "09:30 PM",
+    "from": "Cl22NpAYFlPM3jz9AAAD",
+    "to": "sI6o_CXS2W4tgmK9AAAB",
+    "timestamp": "2025-05-24T16:00:01.753Z",
+    "chatId": "sI6o_CXS2W4tgmK9AAAB-Cl22NpAYFlPM3jz9AAAD"
+  },
+  {
+    "sender": "agent",
+    "text": "Hello",
+    "time": "09:30 PM",
+    "from": "Cl22NpAYFlPM3jz9AAAD",
+    "to": "sI6o_CXS2W4tgmK9AAAB",
+    "timestamp": "2025-05-24T16:00:06.907Z",
+    "chatId": "sI6o_CXS2W4tgmK9AAAB-Cl22NpAYFlPM3jz9AAAD"
+  },
+  {
+    "sender": "user",
+    "text": "Hi",
+    "time": "09:30 PM",
+    "from": "sI6o_CXS2W4tgmK9AAAB",
+    "to": "Cl22NpAYFlPM3jz9AAAD",
+    "timestamp": "2025-05-24T16:00:15.819Z",
+    "chatId": "sI6o_CXS2W4tgmK9AAAB-Cl22NpAYFlPM3jz9AAAD"
+  },
+  {
+    "sender": "system",
+    "text": "Chat ended (client disconnected)",
+    "time": "09:30 PM",
+    "from": "system",
+    "to": "both",
+    "timestamp": "2025-05-24T16:00:48.909Z",
+    "chatId": "sI6o_CXS2W4tgmK9AAAB-Cl22NpAYFlPM3jz9AAAD"
+  },
+  {
+    "sender": "system",
+    "text": "Chat requested",
+    "time": "09:31 PM",
+    "from": "-Q8Dry5JbkJnflacAAAH",
+    "to": "all-agents",
+    "timestamp": "2025-05-24T16:01:02.765Z",
+    "chatId": "no-active-chat"
+  },
+  {
+    "sender": "system",
+    "text": "Chat started",
+    "time": "09:31 PM",
+    "from": "oP4BuWNVkGnMOvoIAAAF",
+    "to": "-Q8Dry5JbkJnflacAAAH",
+    "timestamp": "2025-05-24T16:01:05.093Z",
+    "chatId": "-Q8Dry5JbkJnflacAAAH-oP4BuWNVkGnMOvoIAAAF"
+  },
+  {
+    "sender": "agent",
+    "text": "Hi",
+    "time": "09:31 PM",
+    "from": "oP4BuWNVkGnMOvoIAAAF",
+    "to": "-Q8Dry5JbkJnflacAAAH",
+    "timestamp": "2025-05-24T16:01:08.363Z",
+    "chatId": "-Q8Dry5JbkJnflacAAAH-oP4BuWNVkGnMOvoIAAAF"
+  },
+  {
+    "sender": "user",
+    "text": "Hello",
+    "time": "09:31 PM",
+    "from": "-Q8Dry5JbkJnflacAAAH",
+    "to": "oP4BuWNVkGnMOvoIAAAF",
+    "timestamp": "2025-05-24T16:01:15.597Z",
+    "chatId": "-Q8Dry5JbkJnflacAAAH-oP4BuWNVkGnMOvoIAAAF"
+  },
+  {
+    "sender": "agent",
+    "text": "Message from Agent",
+    "time": "09:31 PM",
+    "from": "oP4BuWNVkGnMOvoIAAAF",
+    "to": "-Q8Dry5JbkJnflacAAAH",
+    "timestamp": "2025-05-24T16:01:29.090Z",
+    "chatId": "-Q8Dry5JbkJnflacAAAH-oP4BuWNVkGnMOvoIAAAF"
+  },
+  {
+    "sender": "system",
+    "text": "Chat ended (client disconnected)",
+    "time": "09:32 PM",
+    "from": "system",
+    "to": "both",
+    "timestamp": "2025-05-24T16:02:44.766Z",
+    "chatId": "-Q8Dry5JbkJnflacAAAH-oP4BuWNVkGnMOvoIAAAF"
+  },
+  {
+    "sender": "system",
+    "text": "Chat requested",
+    "time": "09:32 PM",
+    "from": "h81DkV_-rjvzCgfTAAAL",
+    "to": "all-agents",
+    "timestamp": "2025-05-24T16:02:51.572Z",
+    "chatId": "no-active-chat"
+  },
+  {
+    "sender": "system",
+    "text": "Chat started",
+    "time": "09:32 PM",
+    "from": "07SHvwZS94yfv0paAAAJ",
+    "to": "h81DkV_-rjvzCgfTAAAL",
+    "timestamp": "2025-05-24T16:02:53.694Z",
+    "chatId": "h81DkV_-rjvzCgfTAAAL-07SHvwZS94yfv0paAAAJ"
+  },
+  {
+    "sender": "agent",
+    "text": "Hi",
+    "time": "09:32 PM",
+    "from": "07SHvwZS94yfv0paAAAJ",
+    "to": "h81DkV_-rjvzCgfTAAAL",
+    "timestamp": "2025-05-24T16:02:57.262Z",
+    "chatId": "h81DkV_-rjvzCgfTAAAL-07SHvwZS94yfv0paAAAJ"
+  },
+  {
+    "sender": "system",
+    "text": "Chat ended (client disconnected)",
+    "time": "09:33 PM",
+    "from": "system",
+    "to": "both",
+    "timestamp": "2025-05-24T16:03:55.500Z",
+    "chatId": "h81DkV_-rjvzCgfTAAAL-07SHvwZS94yfv0paAAAJ"
+  },
+  {
+    "sender": "system",
+    "text": "Chat requested",
+    "time": "12:41 AM",
+    "from": "ts-3I8H1-_Mis7-hAAAO",
+    "to": "all-agents",
+    "timestamp": "2025-05-24T19:11:26.622Z",
+    "chatId": "no-active-chat"
+  },
+  {
+    "sender": "system",
+    "text": "Chat started",
+    "time": "12:41 AM",
+    "from": "ttB-KIbN3RyTO70VAAAJ",
+    "to": "ts-3I8H1-_Mis7-hAAAO",
+    "timestamp": "2025-05-24T19:11:30.326Z",
+    "chatId": "ts-3I8H1-_Mis7-hAAAO-ttB-KIbN3RyTO70VAAAJ"
+  },
+  {
+    "sender": "agent",
+    "text": "Hello User",
+    "time": "12:41 AM",
+    "from": "ttB-KIbN3RyTO70VAAAJ",
+    "to": "ts-3I8H1-_Mis7-hAAAO",
+    "timestamp": "2025-05-24T19:11:38.160Z",
+    "chatId": "ts-3I8H1-_Mis7-hAAAO-ttB-KIbN3RyTO70VAAAJ"
+  },
+  {
+    "sender": "user",
+    "text": "Hello Agent",
+    "time": "12:41 AM",
+    "from": "ts-3I8H1-_Mis7-hAAAO",
+    "to": "ttB-KIbN3RyTO70VAAAJ",
+    "timestamp": "2025-05-24T19:11:46.854Z",
+    "chatId": "ts-3I8H1-_Mis7-hAAAO-ttB-KIbN3RyTO70VAAAJ"
+  }
+]
