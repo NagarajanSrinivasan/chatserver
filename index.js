@@ -197,10 +197,18 @@ const io = socketIo(server, {
 });
 
 app.use((req, res, next) => {
-res.header("Access-Control-Allow-Origin", "*");
-res.header("Access-Control-Allow-Methods", "GET, POST, PUT, DELETE, OPTIONS");
-next();
-});
+  res.setHeader("Access-Control-Allow-Origin", "https://wflivechat.netlify.app");
+  res.setHeader("Access-Control-Allow-Methods", "POST, GET, PUT");
+  res.setHeader("Access-Control-Allow-Headers", "Content-Type");
+  next();
+})
+
+app.use((req, res, next) => {
+  res.setHeader("Access-Control-Allow-Origin", "https://wflivechatuser.netlify.app");
+  res.setHeader("Access-Control-Allow-Methods", "POST, GET, PUT");
+  res.setHeader("Access-Control-Allow-Headers", "Content-Type");
+  next();
+})
 
 let users = {};
 let agents = {};
