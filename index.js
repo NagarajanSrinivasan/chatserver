@@ -176,19 +176,31 @@ const socketIo = require('socket.io');
 
  app.use(cors());
 
+// const io = socketIo(server, {
+//   cors: {
+//     origin: ['https://wflivechatuser.netlify.app', 'https://wflivechat.netlify.app'],
+//     methods: ["GET", "POST"]
+//   }
+// });
+
+// app.options("*", cors({ origin: 'https://wflivechat.netlify.app', optionsSuccessStatus: 200 }));
+// app.use(cors({ origin: "https://wflivechat.netlify.app", optionsSuccessStatus: 200 }));
+
+// app.options("*", cors({ origin: 'https://wflivechatuser.netlify.app', optionsSuccessStatus: 200 }));
+// app.use(cors({ origin: "https://wflivechatuser.netlify.app", optionsSuccessStatus: 200 }));
+
 const io = socketIo(server, {
   cors: {
-    origin: ['https://wflivechatuser.netlify.app', 'https://wflivechat.netlify.app'],
+    origin: '*',
     methods: ["GET", "POST"]
   }
 });
 
-app.options("*", cors({ origin: 'https://wflivechat.netlify.app', optionsSuccessStatus: 200 }));
-app.use(cors({ origin: "https://wflivechat.netlify.app", optionsSuccessStatus: 200 }));
-
-app.options("*", cors({ origin: 'https://wflivechatuser.netlify.app', optionsSuccessStatus: 200 }));
-app.use(cors({ origin: "https://wflivechatuser.netlify.app", optionsSuccessStatus: 200 }));
-
+app.use((req, res, next) => {
+res.header("Access-Control-Allow-Origin", "*");
+res.header("Access-Control-Allow-Methods", "GET, POST, PUT, DELETE, OPTIONS");
+next();
+});
 
 let users = {};
 let agents = {};
